@@ -54,7 +54,7 @@ nav button {
 .place img {
   width: 300px;
   height: 200px;
-  /* object-fit: cover; */
+  object-fit:fill;
 }
 
 .place h3 {
